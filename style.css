@@ -174,3 +174,30 @@ body, .leaflet-popup-content {
     width: 1430px;
   }
 }
+
+@media (min-width: 1707px) {
+  #mapid {
+    width: 850px;
+  }
+  .mapContainer{
+    width: 1480px;
+  }
+}
+
+@media (min-width: 1814px) {
+  #mapid {
+    width: 900px;
+  }
+  .mapContainer{
+    width: 1530px;
+  }
+}
+
+@media (min-width: 1920px) {
+  #mapid {
+    width: 950px;
+  }
+  .mapContainer{
+    width: 1580px;
+  }
+}
